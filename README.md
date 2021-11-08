@@ -21,4 +21,4 @@ with this source code u will abel to join ur tokens (accounts without email) to 
  
  this source works only for 24 tokens
  
-# if u have any question dm me in discord : ੴ viki ριЖιs#6080 / GOOD LUCK
+# if u have any question dm me in discord : PG_VIKI#0160 / GOOD LUCK
