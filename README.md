@@ -3,6 +3,8 @@ with this source code u will abel to join ur tokens (accounts without email) to 
 
 # HOW TO INSTALL :
  clone the project to repl or glitch (ill put the repl fork link down below).
+ repl : https://replit.com/
+ glitch : https://glitch.com/
 
  Install = (npm i express).
 
