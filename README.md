@@ -2,7 +2,7 @@
 with this source code u will abel to join ur tokens (accounts without email) to voice channel or just make account online.
 
 # HOW TO INSTALL :
- clone the project to repl or glitch (ill put the repl fork link down below).
+ clone the project to repl or glitch (ill put the repl and glitch link down below).
  
  repl : https://replit.com/
  
